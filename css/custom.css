@@ -1,0 +1,9 @@
+@media (min-width: 768px) { /* useful links padding*/
+	
+	.ufl {
+		padding-left: 80px;
+	}
+}
+.bg-color-new{
+	background-color: #376a96 !important;
+}
